@@ -12,7 +12,7 @@ const Layout = async({children} :{children : React.ReactNode}) => {
 
      const fullName = currentUser.fullName;
      const email = currentUser.email;
-     console.log(fullName , email)
+    
   return (
     <main className='flex h-screen'>
        <Sidebar fullName={fullName} email={email}/>
