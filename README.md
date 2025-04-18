@@ -38,9 +38,3 @@
 
 Clone the project and install dependencies:
 
-```bash
-git clone https://github.com/your-username/storage-system.git
-cd storage-system
-npm install
-# or
-yarn
