@@ -67,8 +67,8 @@ npm run dev
 
 ## 🤝 Connect with Me
 
-- 💼 [Portfolio](https://your-portfolio-link.com)
-- 🧑‍💻 [LinkedIn](https://linkedin.com/in/yourhandle)
+- 💼 [Portfolio](https://navindev.vercel.app)
+- 🧑‍💻 [LinkedIn](https://www.linkedin.com/in/navin07/)
 
 ---
 
