@@ -4,7 +4,7 @@
 
 ## 📸 Preview
 
-![Banner](/projects/banners/storit.png)
+![Banner](/banner.png)
 
 ---
 
