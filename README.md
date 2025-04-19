@@ -1,40 +1,77 @@
-<h1 align="center">🚀 Storage System</h1>
+# 🚀 StoreIt
 
-<p align="center">
-  A full-stack storage solution built with <b>Next.js</b>, <b>Tailwind CSS</b>, <b>TypeScript</b>, and <b>Appwrite</b> ☁️
-</p>
+> A sleek and responsive storage-based web app to manage and secure documents.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white" />
-</p>
+## 📸 Preview
+
+![Banner](/projects/banners/storit.png)
 
 ---
 
-## 🌟 Features
+## 📖 Description
 
-- 🔐 User Authentication (via Appwrite)
-- 📤 File Uploads & Management
-- 🧭 Organized Real-time UI
-- 💡 Built with modern dev tools & clean structure
-- 🎯 TypeScript support for reliability
+StoreIt is a sleek, modern, and responsive storage-based web application designed to simplify how users manage their digital documents...
 
 ---
 
-## 📦 Tech Stack
+## 🔥 Features
 
-| Category     | Tech                                        |
-|--------------|---------------------------------------------|
-| **Frontend** | Next.js (App Router), Tailwind CSS, TypeScript |
-| **Backend**  | Appwrite (Auth, DB, Storage)                |
-| **Dev Tools**| Vercel, GitHub, Prettier                    |
+- 📤 Upload / Share / Manage Files
+- 🔐 Secure Authentication
+- 📊 Real-time Insights
+- 📱 Responsive UI
+- ☁️ Cloud Integration
 
 ---
 
-## 🚀 Getting Started
+## 🛠 Tech Stack
 
-Clone the project and install dependencies:
+- Next.js
+- TypeScript
+- Tailwind CSS
+- AppWrite
 
+---
+
+## 🚀 Live Demo
+
+🔗 [Live Site](https://storeitmns.vercel.app/)
+
+---
+
+## 🧪 Installation & Setup
+
+```bash
+git clone https://github.com/NAVIN0507/storeit.git
+cd storeit
+npm install
+npm run dev
+```
+
+---
+
+## 🧠 What I Learned
+
+- Working with Next.js, Appwrite, and Tailwind CSS
+- Building full-stack apps with Next.js
+- Optimizing UI/UX for modern web platforms
+
+---
+
+## 🙌 Acknowledgements
+
+- Thanks to the open-source community!
+- Special shoutout to the tools that power this app
+
+---
+
+## 🤝 Connect with Me
+
+- 💼 [Portfolio](https://your-portfolio-link.com)
+- 🧑‍💻 [LinkedIn](https://linkedin.com/in/yourhandle)
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
