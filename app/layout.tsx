@@ -12,8 +12,7 @@ const poppins = Poppins({
 export const metadata: Metadata = {
   title: "StoreIt",
   description: "StoreIt - The only storage solution you need.",
-};
-
+};// nothing to change 
 export default function RootLayout({
   children,
 }: Readonly<{
@@ -23,7 +22,7 @@ export default function RootLayout({
     <html lang="en">
       <body
         className={`${poppins.variable} font-poppins antialiased`}
-      >
+      
         {children}
       </body>
     </html>
