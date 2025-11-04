@@ -8,7 +8,7 @@ const poppins = Poppins({
   weight: [ "100" , "200", "300", "400", "500", "600", "700" ,"800" , "900"],
   variable: '--font-poppins'
 })
-
+//this is ci cd test commit 
 export const metadata: Metadata = {
   title: "StoreIt",
   description: "StoreIt - The only storage solution you need.",
